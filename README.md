@@ -1,3 +1,5 @@
+EDET on 10/10/19 made a couple tweeks to make this code comple on arduino mega with arduino 1.0.5
+
 HX711-multi
 =====
 
